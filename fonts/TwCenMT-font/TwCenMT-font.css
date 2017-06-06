@@ -1,0 +1,28 @@
+@font-face {
+	font-family: 'TwCenMT';
+	src: url('TwCenMTBoldItalic.ttf');
+	src: local('☺'), url('TwCenMTBoldItalic.ttf') format('truetype');
+	font-weight: 900;
+	font-style: italic;
+}
+@font-face {
+	font-family: 'TwCenMT';
+	src: url('TwCenMTBold.ttf');
+	src: local('☺'), url('TwCenMTBold.ttf') format('truetype');
+	font-weight: 900;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'TwCenMT';
+	src: url('TwCenMTItalic.ttf');
+	src: local('☺'), url('TwCenMTItalic.ttf') format('truetype');
+	font-weight: 500;
+	font-style: italic;
+}
+@font-face {
+	font-family: 'TwCenMT';
+	src: url('TwCenMT.ttf');
+	src: local('☺'), url('TwCenMT.ttf') format('truetype');
+	font-weight: 500;
+	font-style: normal;
+}

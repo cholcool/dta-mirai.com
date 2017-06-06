@@ -1,0 +1,7 @@
+@font-face {
+	font-family: 'argon';
+	src: url('ArgonPERSONAL-Regular.otf');
+	src: local('☺'), url('ArgonPERSONAL-Regular.otf') format('truetype');
+	font-weight: normal;
+	font-style: italic;
+}
